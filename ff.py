@@ -10,6 +10,7 @@ reset='\033[0m'
 y='\033[1;33m'
 from os import system as gg
 import time
+sb = input("entar")
 f = open("max.txt", "r")
 for i in f:
 
