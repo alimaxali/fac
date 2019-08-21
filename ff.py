@@ -11,7 +11,7 @@ y='\033[1;33m'
 from os import system as gg
 import time
 sb = input("entar")
-if sb in "999"
+if sb in "999":
  f = open("max.txt", "r")
  for i in f:
 
