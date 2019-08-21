@@ -10,8 +10,8 @@ reset='\033[0m'
 y='\033[1;33m'
 from os import system as gg
 import time
-sb = input("entar")
-if sb in "999":
+sb = input("passwoed ")
+if sb == "999":
  f = open("max.txt", "r")
  for i in f:
 
@@ -20,4 +20,6 @@ if sb in "999":
  s = input("entar")
  gg("payload")
 else:
+ print "erorr"
+ time.sleep(3)
  gg("payload")
