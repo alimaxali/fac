@@ -11,10 +11,13 @@ y='\033[1;33m'
 from os import system as gg
 import time
 sb = input("entar")
-f = open("max.txt", "r")
-for i in f:
+if sb in "999"
+ f = open("max.txt", "r")
+ for i in f:
 
- print (g + "good" + c + "------> " + y + i)
- time.sleep(4)
-s = input("entar")
-gg("payload")
+  print (g + "good" + c + "------> " + y + i)
+  time.sleep(4)
+ s = input("entar")
+ gg("payload")
+else:
+ gg("payload")
