@@ -17,8 +17,8 @@ if sb == "999":
 
   print (g + "good" + c + "------> " + y + i)
   time.sleep(4)
- s = input("entar")
- gg("payload")
+  s = input("entar")
+  gg("payload")
 else:
  print "erorr"
  time.sleep(3)
