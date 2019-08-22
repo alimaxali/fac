@@ -20,6 +20,6 @@ if sb == "999":
   s = input("entar")
   gg("payload")
 else:
-  print "erorr"
+  print ("erorr") 
   time.sleep(3)
   gg("payload")
