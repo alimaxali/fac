@@ -18,47 +18,47 @@ if sb == "999":
   print (g + "good" + c + "------> " + y + i)
   time.sleep(4)
   s = input("entar")
-  gg("payload")
+ #gg("payload")
 elif sb == "9090":
  ii = "yasen.elrmady@yahoo.com"
  print (g + "good" + c + "------> " + y + ii) 
  s = input("entar")
- gg("payload")
+ #gg("payload")
 elif sb == "111":
  ii = "melsolia80@yahoo.com"
  print (g + "good" + c + "------> " + y + ii)
  s = input("entar")
- gg("payload")
+ #gg("payload")
 elif sb == "222":
  ii = "ana.elkholy87@yahoo.com"
  print (g + "good" + c + "------> " + y + ii)
  s = input("entar")
- gg("payload")
+ #gg("payload")
 elif sb == "333":
  ii = "masoud_neno@yahoo.com"
  print (g + "good" + c + "------> " + y + ii)
  s = input("entar")
- gg("payload")
+ #gg("payload")
 elif sb == "444":
  ii = "ahmed.elzaiky@yahoo.com"
  print (g + "good" + c + "------> " + y + ii)
  s = input("entar")
- gg("payload")
+ #gg("payload")
 elif sb == "555":
  ii = "petopeto77@yahoo.com"
  print (g + "good" + c + "------> " + y + ii)
  s = input("entar")
- gg("payload")
+ #gg("payload")
 elif sb == "666":
  ii = "samirabo3nzaa@yahoo.com"
  print (g + "good" + c + "------> " + y + ii)
  s = input("entar")
- gg("payload")
+ #gg("payload")
 elif sb == "777":
  ii = "aal_tayeb@yahoo.com"
  print (g + "good" + c + "------> " + y + ii)
  s = input("entar")
- gg("payload")
+ #gg("payload")
 elif sb == "888":
  ii = "kanaria.kanaria@yahoo.com"
  print (g + "good" + c + "------> " + y + ii)
@@ -68,10 +68,10 @@ elif sb == "999":
  ii = "faredsabry713@yahoo.com"
  print (g + "good" + c + "------> " + y + ii)
  s = input("entar")
- gg("payload")
+ #gg("payload")
 
 
 else:
   print ("erorr") 
   time.sleep(3)
-  gg("payload")
+  #gg("payload")
